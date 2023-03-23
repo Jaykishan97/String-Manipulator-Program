@@ -1,4 +1,5 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/Jaykishan97/String-Manipulator-Program)
+![GitHub last commit](https://img.shields.io/github/last-commit/Jaykishan97/String-Manipulator-Program)   	![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 # String Manipulator Program
 This is a Java program that allows you to manipulate a string entered through the console. The program will prompt you to enter a string and will display various properties of the entered string, such as the original string, reversed string, number of characters, number of words, number of sentences, whether it is a palindrome, uppercase and lowercase versions, and a string with replaced substrings.
